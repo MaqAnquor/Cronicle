@@ -1,5 +1,12 @@
 # Cronicle Changelog
 
+## Version v0.9.123
+
+> July 9, 2026
+
+- [`a46f482`](https://github.com/jhuckaby/cronicle/commit/a46f482386fa0c592657a463403fe97159903cc2): Version 0.9.123
+	- Replace old bcrypt-node with bcryptjs.  Fixes #984.
+
 ## Version v0.9.122
 
 > June 30, 2026
