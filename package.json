@@ -1,6 +1,6 @@
 {
 	"name": "Cronicle",
-	"version": "0.9.122",
+	"version": "0.9.123",
 	"private": true,
 	"description": "A simple, distributed task scheduler and runner with a web based UI.",
 	"author": "Joseph Huckaby <jhuckaby@gmail.com>",
@@ -34,7 +34,7 @@
 	},
 	"dependencies": {
 		"async": "2.6.4",
-		"bcrypt-node": "0.1.0",
+		"bcryptjs": "3.0.3",
 		"chart.js": "2.9.4",
 		"font-awesome": "4.7.0",
 		"jquery": "3.5.0",
